@@ -16,6 +16,9 @@
 ⚠️ **Avertissement important :** Pulsar Bank est un projet de démonstration et une simulation logicielle open-source.
 **Ce n'est pas une véritable banque** et la plateforme ne fournit aucun service financier réel. Tous les soldes, transactions et opérations sont purement fictifs.
 
+
+---
+
 ## 🚀 Fonctionnalités Principales
 
 - 🔐 **Authentification Sécurisée** : Connexion et gestion des utilisateurs via Supabase.
